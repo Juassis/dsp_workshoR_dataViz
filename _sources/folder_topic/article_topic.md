@@ -1,8 +1,5 @@
-# Headline of the article
+# Introduction to data visualization
 
-> Author: Your Name
+In today's data-driven world, the ability to visualize data effectively is essential for uncovering trends, making informed decisions, and communicating complex information. This workshop will guide you through the **theoretical foundations** and the **practical applications** of data visualization, ensuring you leave with a solid understanding of the subject.
 
-Write something using markdown syntax. You can use the 
-[Markdown Guide](https://www.markdownguide.org/basic-syntax/) or
-[GitHub Docs Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-to learn more about the markup syntax.
+
